@@ -1,4 +1,5 @@
-<img align="center" width="1000" height="500" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="center" width="1000" height="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 
 <h1 align="center">Hi 👋, I'm kanishka currently pursuing my B.Tech in Information Technology.</h1>
 <h3 align="center">A passionate to be a software developer.</h3>
