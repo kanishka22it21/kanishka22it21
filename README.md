@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **about DevOps to simplify the software deployment process.**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT and frameworks of it.**
+- 💬 Ask me about **HTML,CSS and JAVASCRIPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
