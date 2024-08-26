@@ -15,8 +15,8 @@
      - Developing sophisticated, user-centric web interfaces.
      - Utilizing modern JavaScript frameworks and libraries for efficient development.
      - Writing clean, maintainable code with adherence to industry best practices.
-
-- 🔭 I’m currently working on **mastering cloud technologies and DevOps practices through hands-on projects and exploration.**
+     
+     - 🔭mastering cloud technologies and DevOps practices through hands-on projects and exploration.
   
 
 
