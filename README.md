@@ -9,14 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishka22it21" alt="kanishka22it21" /></a> </p>
 
-- 🔭 I’m currently working on **mastering cloud technologies and DevOps practices through hands-on projects and exploration.**
   
 - **CURRENTLY WORKING ON:**
-     - Developing sophisticated, user-centric web interfaces.
-     - Utilizing modern JavaScript frameworks and libraries for efficient development.
-     - Writing clean, maintainable code with adherence to industry best practices.
+     -  🔭Developing sophisticated, user-centric web interfaces.
+     -  🔭Utilizing **modern JavaScript frameworks and libraries for efficient development.**
+     -  🔭Writing clean, maintainable code with adherence to industry best practices.
      
-     - 🔭mastering cloud technologies and DevOps practices through hands-on projects and exploration.
+     - 🔭**mastering cloud technologies and DevOps practices through hands-on projects and exploration**.
   
 
 
