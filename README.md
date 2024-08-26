@@ -12,9 +12,13 @@
 - 🔭 I’m currently working on **mastering cloud technologies and DevOps practices through hands-on projects and exploration.**
   
 - **CURRRENTLY WORKING ON:**
-     - Developing sophisticated, user-centric web interfaces
-     -Utilizing modern JavaScript frameworks and libraries for efficient development
-     -Writing clean, maintainable code with adherence to industry best practices
+     - Developing sophisticated, user-centric web interfaces.
+     -Utilizing modern JavaScript frameworks and libraries for efficient development.
+     -Writing clean, maintainable code with adherence to industry best practices.
+
+- 🔭 I’m currently working on **mastering cloud technologies and DevOps practices through hands-on projects and exploration.**
+  
+
 
 - 🌱 I’m currently learning **about DevOps to simplify the software deployment process.**
 
