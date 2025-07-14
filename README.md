@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm kanishka currently pursuing my B.Tech in Information Technology.</h1>
-<h3 align="center">A passionate to be a software developer.</h3>
+<h3 align="center">A passionate to be a Cloud and DevOps Engineer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka22it21&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka22it21" /> </p>
