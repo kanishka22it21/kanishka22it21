@@ -1,4 +1,4 @@
-<img align="center" width="500" height="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" width="500" height="1100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Kanishka, currently pursuing my B.Tech in Information Technology.</h1>
 <h3 align="center">A passionate to-be Cloud and DevOps Engineer.</h3>
