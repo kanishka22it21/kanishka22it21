@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **DevOps to simplify the software deployment process.**
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about **AWS,React JS,Jenkins,Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
